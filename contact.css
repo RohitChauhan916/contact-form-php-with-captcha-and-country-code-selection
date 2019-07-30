@@ -1,0 +1,18 @@
+.form-contacts{
+  padding: 20px 200px
+}
+.ctn{
+  text-align: center;
+}
+.cen{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.captcha{
+  font-size: 1.2em
+}
+#CaptchaDiv{
+font-size: 1.8em;
+
+}
